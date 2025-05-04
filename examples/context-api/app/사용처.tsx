@@ -1,4 +1,4 @@
-import { useText } from "./textContext";
+import { useText } from "./textContext";
 
 export function 사용처() {
     const { text } = useText();
